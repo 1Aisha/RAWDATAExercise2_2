@@ -1,4 +1,4 @@
-#New Master education: Mandatory course - (RAWDATA) Responsive Applications, Web services and Databases
-##Roskilde University Fall 2015
+##RAWDATA - Responsive Applications, Web services and Databases
+####Roskilde University Fall 2015
 
-## Solutions to Exercise2_2
+### Solutions to Exercise2_2
